@@ -45,12 +45,12 @@ global.reply = 'https://files.catbox.moe/33o6jd.jpg'
 global.replyviex = 'https://files.catbox.moe/641pvo.jpg'
 
 //////////////////////YOUR MENU DISPLAY SETTINGS//////////////////
-global.ig = '@techlord01' //YOUR INSTAGRAM NAME
+global.ig = '@wh01s.sky' //YOUR INSTAGRAM NAME
 global.yt = 'malvintech2' //YOUR YOUTUBE NAME, IF NONE THEN LEAVE BLANK
 global.ttowner = 'malvinquotes' //YOUR TIKTOK NAME
-global.ownername = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ' //YOUR NAME
-global.owner = ['263780166288'] // ALSO SET THIS IN DATABASE FOLDER 
-global.ownernomer = '263780166288' //YOUR NUMBER
+global.ownername = 'ѕкун: ℓσя∂ ѕкун' //YOUR NAME
+global.owner = ['917973611393'] // ALSO SET THIS IN DATABASE FOLDER 
+global.ownernomer = '917973611393' //YOUR NUMBER
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
 global.nameCreator = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
@@ -58,10 +58,10 @@ global.nameCreator = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
 
 
 //==================BOT SETTINGS===========================\\
-global.botname = "MK | BOT" //YOUR BOT NAME
-global.ownernumber = '263780166288' //YOUR NUMBER
-global.botnumber = '263780166288' //YOUR NUMBER
-global.ownername = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ' //YOUR NAME
+global.botname = "𝐥𝐨𝐫𝐝| 𝐬𝐤𝐲𝐡🖤" //YOUR BOT NAME
+global.ownernumber = '𝟗𝟏𝟕𝟗𝟕𝟑𝟔𝟏𝟏𝟑𝟗𝟑' //YOUR NUMBER
+global.botnumber = '𝟗𝟏𝟕𝟗𝟕𝟑𝟔𝟏𝟏𝟑𝟗𝟑' //YOUR NUMBER
+global.ownername = '𝐆𝐚𝐠𝐚𝐧: 𝐬𝐤𝐲𝐲𝐚𝐚🩵' //YOUR NAME
 global.idSaluran = "120363398430045533@newsletter" //YOUR CHANNEL ID
 global.idch = "120363398430045533@newsletter" //YOUR CHANNEL ID
 global.chat = '120363398430045533@newsletter'
@@ -76,7 +76,11 @@ global.saluran = "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A"
 global.themeemoji = '🪀'
 global.wm = "Malvin King Tha Best"
 global.botscript = 'ʙᴏᴛ sᴄʀɪᴘᴛ ɪɴ\nlink : https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A'
-global.packname = "Made With ❤️ By"
+global.packname = "丹zͥนrͣeͫ🖤 
+╭ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◝╮ 
+♡ ᵘ ᵐᵃᵏᵉ ᵐᵉ ˢᵒ ʰᵃᵖᵖʸ ♡ 
+ ♡ᶦ’ᵐ ᵍˡᵃᵈ♡
+🖤"
 global.author = "\n\nLordMk\n Dev : Malvin"
 global.creator = "263780166288@s.whatsapp.net"
 
